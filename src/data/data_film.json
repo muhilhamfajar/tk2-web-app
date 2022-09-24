@@ -1,0 +1,128 @@
+[
+    {
+        "Id": "01",
+        "Uuid" : "1cb980c7-f4a9-4884-a77a-885e8be9102c",
+        "Title" :"Avatar",
+        "Description" : "A paraplegic marine dispatched to the moon Pandora on a unique mission becomes torn between following his orders and protecting the world he feels is his home.",
+        "Genre" : "Action",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTYwOTEwNjAzMl5BMl5BanBnXkFtZTcwODc5MTUwMw@@._V1_SX300.jpg",
+        "Trailer" : "6ziBFh3V1aM"
+    },
+    {
+        "Id": "02",
+        "Uuid" : "89d8b342-cb34-453f-818e-83fdd3b1cf78",
+        "Title" :"The Avengers",
+        "Description" : "Earth's mightiest heroes must come together and learn to fight as a team if they are to stop the mischievous Loki and his alien army from enslaving humanity.",
+        "Genre" : "Action",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTk2NTI1MTU4N15BMl5BanBnXkFtZTcwODg0OTY0Nw@@._V1_SX300.jpg",
+        "Trailer" : "a-7MWYqicC0"
+    },
+    {
+        "Id": "03",
+        "Uuid" : "20519d22-28b0-447e-9e45-e48a216d704b",
+        "Title" :"Game of Thrones",
+        "Description" : "While a civil war brews between several noble families in Westeros, the children of the former rulers of the land attempt to rise up to power. Meanwhile a forgotten race, bent on destruction, plans to return after thousands of years in the North.",
+        "Genre" : "Adventure",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMjM5OTQ1MTY5Nl5BMl5BanBnXkFtZTgwMjM3NzMxODE@._V1_SX300.jpg",
+        "Trailer" : "uEmvjvhCv7Q"
+    },
+    {
+        "Id": "04",
+        "Uuid" : "4965dbc3-45eb-437b-a0a3-41aa4f8dc25b",
+        "Title" :"Vikings",
+        "Description": "The world of the Vikings is brought to life through the journey of Ragnar Lothbrok, the first Viking to emerge from Norse legend and onto the pages of history - a man on the edge of myth.",
+        "Genre" : "Action",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BOTEzNzI3MDc0N15BMl5BanBnXkFtZTgwMzk1MzA5NzE@._V1_SX300.jpg",
+        "Trailer" : "xdm7Z3TQhDg"
+    },
+    {
+        "Id": "05",
+        "Uuid" : "3147ff3d-b470-479e-9aef-1e811a0e8a8e",
+        "Title" :"Gotham",
+        "Description": "The story behind Detective James Gordon's rise to prominence in Gotham City in the years before Batman's arrival.",
+        "Genre" : "Action",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTY2MjMwNDE4OV5BMl5BanBnXkFtZTgwNjI1NjU0OTE@._V1_SX300.jpg",
+        "Trailer" : "0beX8b4zX5E"
+    },
+    {
+        "Id": "06",
+        "Uuid" : "88496561-e137-4421-9c37-45e29d67a5f2",
+        "Title" :"Doctor Strange",
+        "Description": "After his career is destroyed, a brilliant but arrogant and conceited surgeon gets a new lease on life when a sorcerer takes him under her wing and trains him to defend the world against evil.",
+        "Genre" : "Action",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BNjgwNzAzNjk1Nl5BMl5BanBnXkFtZTgwMzQ2NjI1OTE@._V1_SX300.jpg",
+        "Trailer" : "Lt-U_t2pUHI"
+    },
+    {
+        "Id": "07",
+        "Uuid" : "1b0dce33-fd80-4eeb-9a00-e95b65577f61",
+        "Title" :"Narcos",
+        "Description": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar.",
+        "Genre" : "Biography",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTU0ODQ4NDg2OF5BMl5BanBnXkFtZTgwNzczNTE4OTE@._V1_SX300.jpg",
+        "Trailer" : "xl8zdCY-abw"
+    },
+    {
+        "Id": "08",
+        "Uuid" : "e6cfb99e-4d16-4925-94a3-51b97ff2c34d",
+        "Title" :"Luke Cage",
+        "Description": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
+        "Genre" : "Action",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTcyMzc1MjI5MF5BMl5BanBnXkFtZTgwMzE4ODY2OTE@._V1_SX300.jpg",
+        "Trailer" : "YbFMjir8wqM"
+    },
+    {
+        "Id": "09",
+        "Uuid" : "74f41d8d-23f4-4342-a3cf-a7e5c585ec09",
+        "Title" :"Assassin's Creed",
+        "Description": "When Callum Lynch explores the memories of his ancestor Aguilar and gains the skills of a Master Assassin, he discovers he is a descendant of the secret Assassins society.",
+        "Genre" : "Action",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTU2MTQwMjU1OF5BMl5BanBnXkFtZTgwMDA5NjU5ODE@._V1_SX300.jpg",
+        "Trailer" : "4haJD6W136c"
+    },
+    {
+        "Id": "10",
+        "Uuid" : "45daa9fd-caa3-4fbd-8ba5-3852e021bb22",
+        "Title": "Rogue One: A Star Wars Story",
+        "Description": "The Rebellion makes a risky move to steal the plans to the Death Star, setting up the epic saga to follow.",
+        "Genre" : "Action",
+        "Poster": "https://images-na.ssl-images-amazon.com/images/M/MV5BMjQyMzI2OTA3OF5BMl5BanBnXkFtZTgwNDg5NjQ0OTE@._V1_SY1000_CR0,0,674,1000_AL_.jpg",
+        "Trailer" : "dyHweFaQw8s"
+    },
+    {
+        "Id": "11",
+        "Uuid" : "228865d4-ef90-4fd3-a821-525f7768d64b",
+        "Title" :"Breaking Bad",
+        "Description": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's financial future.",
+        "Genre" : "Crime",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMTQ0ODYzODc0OV5BMl5BanBnXkFtZTgwMDk3OTcyMDE@._V1_SX300.jpg",
+        "Trailer" : "HhesaQXLuRY"
+    },
+    {
+        "Id": "12",
+        "Uuid" : "cec523ac-b9a6-4724-856d-1fa5f5866b6f",
+        "Title" :"Power",
+        "Description": "James \"Ghost\" St. Patrick, a wealthy New York night club owner who has it all, catering for the city's elite and dreaming big, lives a double life as a drug kingpin.",
+        "Genre" : "Crime",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BOTA4NTkzMjUzOF5BMl5BanBnXkFtZTgwNzg5ODkxOTE@._V1_SX300.jpg",
+        "Trailer" : "w7fuOkF74Zw"
+    },
+    {
+        "Id": "13",
+        "Uuid" : "1712c0fa-7166-41ca-84ae-b98c848736f0",
+        "Title" :"Interstellar",
+        "Description": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+        "Genre" : "Adventure",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMjIxNTU4MzY4MF5BMl5BanBnXkFtZTgwMzM4ODI3MjE@._V1_SX300.jpg",
+        "Trailer" : "2LqzF5WauAw"
+    },
+    {
+        "Id": "14",
+        "Uuid" : "1a04c588-33d6-4934-b555-d5df3344af23",
+        "Title": "The Wolf of Wall Street",
+        "Description": "Based on the true story of Jordan Belfort, from his rise to a wealthy stock-broker living the high life to his fall involving crime, corruption and the federal government.",
+        "Genre" : "Biography",
+        "Poster": "https://ia.media-imdb.com/images/M/MV5BMjIxMjgxNTk0MF5BMl5BanBnXkFtZTgwNjIyOTg2MDE@._V1_SX300.jpg",
+        "Trailer" : "iszwuX1AK6A"
+    }
+]
